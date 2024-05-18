@@ -1,0 +1,16 @@
+# 사칙연산
+# A,B = input().split(" ",1)
+# print(int(A)+int(B))
+# print(int(A)-int(B))
+# print(int(A)*int(B))
+# print(round(int(A)/int(B)))
+# print(int(A)%int(B))
+
+a,b = input().split()
+A = int(a)
+B = int(b)
+print(A+B)
+print(A-B)
+print(A*B)
+print(int(A/B))
+print(A%B)

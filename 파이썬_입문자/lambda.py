@@ -8,3 +8,5 @@
 # my_function = lambda a , b : a * b
 # result = map(my_function, list1, list2)
 # print(list(result))
+
+# lambda 함수는 메모리 사용이 적음(사용한 후에 메모리에서 삭제) => 재사용 불가(일회용), 훨씬 효율적임
