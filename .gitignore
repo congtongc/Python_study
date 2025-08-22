@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.vscode/launch.json
+문제/.idea/문제.iml
+문제/.idea/misc.xml
+문제/.idea/modules.xml
+문제/.idea/vcs.xml
+문제/.idea/workspace.xml
+문제/.idea/inspectionProfiles/profiles_settings.xml
+문제/코딩테스트/qodana.yaml
+문제/코딩테스트/.idea/코딩테스트.iml
+문제/코딩테스트/.idea/misc.xml
+문제/코딩테스트/.idea/modules.xml
+문제/코딩테스트/.idea/vcs.xml
+문제/코딩테스트/.idea/inspectionProfiles/profiles_settings.xml
